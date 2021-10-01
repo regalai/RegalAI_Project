@@ -11,4 +11,4 @@
 * Pull Requests (PRs) area
 * Signed Commit System
 
-<img align="center" src="ReadMe_Resources\logo.png" alt="drawing" width="400"/>
+<img align="right" src="ReadMe_Resources\logo_02.png" alt="drawing" width="100"/>
